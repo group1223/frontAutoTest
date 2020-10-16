@@ -1,0 +1,4 @@
+仪表板: 'id==logo'
+项目: 'xpath==//a[@title="项目"]'
+组织: 'xpath==//a[@title="组织"]'
+登录: 'xpath==//a[class="btn btn-sign-in"]'
