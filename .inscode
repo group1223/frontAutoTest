@@ -10,4 +10,4 @@ MPLBACKEND = "TkAgg"
 POETRY_CACHE_DIR = "/root/${PROJECT_DIR}/.cache/pypoetry"
 
 [debugger]
-program = "test_about.py"
+program = "TestCase/test_login.py"
